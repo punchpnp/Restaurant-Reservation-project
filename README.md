@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?id=1f-WRLlX9blyBdRAci8YmSxvW3VNcYZ24" alt="Alt Text" height="400">
 </p>
 
-# Restaurant Reservation Project - Backend
+# Restaurant Reservation Project - Backend 🍱 🗓️ 
 
 This is the backend repository for the Restaurant Reservation project, built using Express and Node.js.
 
